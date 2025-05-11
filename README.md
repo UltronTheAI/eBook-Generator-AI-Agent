@@ -44,13 +44,13 @@ Each eBook includes:
 
 Detailed documentation is available in the `PDF/docs` directory:
 
-- [Installation Guide](PDF/docs/installation.md)
-- [Usage Guide](PDF/docs/usage.md)
-- [Architecture](PDF/docs/architecture.md)
-- [Module Reference](PDF/docs/module_reference.md)
-- [AI Models](PDF/docs/ai_models.md)
-- [Customization](PDF/docs/customization.md)
-- [Troubleshooting](PDF/docs/troubleshooting.md)
+- [Installation Guide](docs/installation.md)
+- [Usage Guide](docs/usage.md)
+- [Architecture](docs/architecture.md)
+- [Module Reference](docs/module_reference.md)
+- [AI Models](docs/ai_models.md)
+- [Customization](docs/customization.md)
+- [Troubleshooting](docs/troubleshooting.md)
 
 ## Requirements
 
