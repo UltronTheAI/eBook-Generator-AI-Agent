@@ -17,7 +17,7 @@ Before installing the eBook Generator, ensure you have the following prerequisit
 ## Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/UltronTheAI/eBook-Generator-AI-Agent.git
 cd eBook-Generator-AI-Agent
 ```
 
