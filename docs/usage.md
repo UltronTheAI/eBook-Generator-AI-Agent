@@ -8,21 +8,13 @@ This guide explains how to use the eBook Generator AI Agent to create eBooks fro
 
 ## Basic Usage
 
-The eBook Generator can be run in two ways:
-
-### Method 1: Using app.py
+To run the eBook Generator:
 
 ```bash
-python -m PDF.app
+python app.py
 ```
 
-### Method 2: Using run.py
-
-```bash
-python -m PDF.run
-```
-
-Both methods will start the eBook generation process using the predefined prompts in the system. **Note: The process is interactive and will prompt you to press Enter between generating each eBook.**
+This will start the eBook generation process using the predefined prompts in the system. **Note: The process is interactive and will prompt you to press Enter between generating each eBook.**
 
 ## Creating a Custom eBook
 
@@ -53,7 +45,7 @@ When you run the eBook Generator, it follows these steps:
 
 ## Customizing Prompts
 
-The default prompts are stored in the `prompts` list in `app.py` or `main.py`. You can modify this list to include your own prompts:
+The default prompts are stored in the `prompts` list in `app.py`. You can modify this list to include your own prompts:
 
 ```python
 prompts = [

@@ -20,18 +20,20 @@ The eBook Generator AI Agent is an automated system for creating high-quality eB
 ## Project Structure
 
 ```
-PDF/
+/
 ├── app.py                  # Main application entry point
-├── run.py                  # Alternative entry point script
 ├── __init__.py             # Package initialization
-├── main.py                 # Main workflow implementation
-├── content_generator.py    # AI content generation functions
-├── pdf_generator.py        # PDF creation and manipulation
-├── utils.py                # Utility functions
-├── models.py               # Data models
+├── PDF/                    # Core package directory
+│   ├── __init__.py         # Package initialization
+│   ├── content_generator.py # AI content generation functions
+│   ├── pdf_generator.py    # PDF creation and manipulation
+│   ├── utils.py            # Utility functions
+│   └── models.py           # Data models
 ├── book/                   # Output directory for generated books
 ├── Templates/              # SVG templates for book covers
+├── docs/                   # Documentation directory
 ├── copyright.pdf           # Copyright page template
+├── requirements.txt        # Dependencies list
 └── .env                    # Environment variables
 ```
 

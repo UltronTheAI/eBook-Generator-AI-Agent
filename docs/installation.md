@@ -18,7 +18,7 @@ Before installing the eBook Generator, ensure you have the following prerequisit
 
 ```bash
 git clone <repository-url>
-cd PDF-Creator
+cd eBook-Generator-AI-Agent
 ```
 
 ## Step 2: Create a Virtual Environment (Recommended)
@@ -88,7 +88,7 @@ To obtain a Gemini API key:
 To verify that everything is set up correctly, run:
 
 ```bash
-python -m PDF.run
+python app.py
 ```
 
 You should see a prompt asking you to press Enter to continue with the first eBook generation.

@@ -21,9 +21,9 @@ An AI-powered system for generating complete eBooks from simple prompts. This to
 ## Quick Start
 
 1. Clone the repository
-2. Install dependencies: `pip install -r PDF/requirements.txt`
+2. Install dependencies: `pip install -r requirements.txt`
 3. Set up your Gemini API key in `.env`
-4. Run the generator: `python -m PDF.run`
+4. Run the generator: `python app.py`
 
 ## Example Output
 
@@ -42,7 +42,7 @@ Each eBook includes:
 
 ## Documentation
 
-Detailed documentation is available in the `PDF/docs` directory:
+Detailed documentation is available in the `docs` directory:
 
 - [Installation Guide](docs/installation.md)
 - [Usage Guide](docs/usage.md)
@@ -57,7 +57,7 @@ Detailed documentation is available in the `PDF/docs` directory:
 - Python 3.8+
 - Google Gemini API key
 - wkhtmltopdf (for PDF generation)
-- Dependencies listed in `PDF/requirements.txt`
+- Dependencies listed in `requirements.txt`
 
 ## License
 
