@@ -1,0 +1,8 @@
+google-generativeai>=0.3.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+markdown>=3.4.0
+pdfkit>=1.0.0
+PyPDF2>=3.0.0
+cairosvg>=2.7.0
+Pillow>=10.0.0 
