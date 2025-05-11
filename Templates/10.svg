@@ -1,0 +1,35 @@
+<!-- Copyright (c) 2025 Swaraj Puppalwar (UltronTheAI) -->
+<!-- Licensed under the MIT License. See LICENSE file in the project root for full license information. -->
+<!-- Project: https://github.com/UltronTheAI/eBook-Generator-AI-Agent -->
+<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="595" height="842" fill="#e8f5e9" />
+  
+  <!-- Nature-inspired decorative elements -->
+  <path d="M 0,0 Q 150,100 0,200 Q 150,300 0,400 Q 150,500 0,600 Q 150,700 0,842" fill="#81c784" fill-opacity="0.3" />
+  <path d="M 595,0 Q 445,100 595,200 Q 445,300 595,400 Q 445,500 595,600 Q 445,700 595,842" fill="#81c784" fill-opacity="0.3" />
+  
+  <!-- Leaf-like accents -->
+  <path d="M 50,100 Q 75,50 100,100 T 150,100" stroke="#4caf50" stroke-width="2" fill="#a5d6a7" />
+  <path d="M 445,100 Q 470,50 495,100 T 545,100" stroke="#4caf50" stroke-width="2" fill="#a5d6a7" />
+  <path d="M 50,742 Q 75,692 100,742 T 150,742" stroke="#4caf50" stroke-width="2" fill="#a5d6a7" />
+  <path d="M 445,742 Q 470,692 495,742 T 545,742" stroke="#4caf50" stroke-width="2" fill="#a5d6a7" />
+  
+  <!-- Content area -->
+  <rect x="100" y="250" width="395" height="342" fill="white" fill-opacity="0.8" rx="20" ry="20" />
+  
+  <!-- Title placeholder - This can be changed -->
+  <text id="title" x="297" y="350" text-anchor="middle" font-family="Palatino, serif" font-size="42" font-weight="bold" fill="#2e7d32">Your Title Here</text>
+  
+  <!-- Nature-inspired separator -->
+  <path d="M 150,400 Q 297,430 445,400" stroke="#4caf50" stroke-width="2" fill="none" />
+  
+  <!-- Author placeholder - This can be changed -->
+  <text id="author" x="297" y="480" text-anchor="middle" font-family="Palatino, serif" font-size="28" fill="#388e3c">Author Name</text>
+  
+  <!-- Small leaf decorations -->
+  <path d="M 120,270 Q 130,250 140,270" stroke="#4caf50" stroke-width="1" fill="#a5d6a7" />
+  <path d="M 475,270 Q 465,250 455,270" stroke="#4caf50" stroke-width="1" fill="#a5d6a7" />
+  <path d="M 120,572 Q 130,552 140,572" stroke="#4caf50" stroke-width="1" fill="#a5d6a7" />
+  <path d="M 475,572 Q 465,552 455,572" stroke="#4caf50" stroke-width="1" fill="#a5d6a7" />
+</svg> 

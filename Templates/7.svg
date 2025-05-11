@@ -1,0 +1,34 @@
+<!-- Copyright (c) 2025 Swaraj Puppalwar (UltronTheAI) -->
+<!-- Licensed under the MIT License. See LICENSE file in the project root for full license information. -->
+<!-- Project: https://github.com/UltronTheAI/eBook-Generator-AI-Agent -->
+<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="595" height="842" fill="#ecf0f1" />
+  
+  <!-- Header bar -->
+  <rect x="0" y="0" width="595" height="150" fill="#34495e" />
+  
+  <!-- Footer bar -->
+  <rect x="0" y="742" width="595" height="100" fill="#34495e" />
+  
+  <!-- Professional accent line -->
+  <rect x="50" y="180" width="5" height="532" fill="#3498db" />
+  
+  <!-- Content area -->
+  <rect x="75" y="250" width="470" height="400" fill="white" stroke="#bdc3c7" stroke-width="1" />
+  
+  <!-- Title placeholder - This can be changed -->
+  <text id="title" x="310" y="350" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="42" font-weight="bold" fill="#2c3e50">Your Title Here</text>
+  
+  <!-- Separator -->
+  <line x1="150" y1="400" x2="470" y2="400" stroke="#3498db" stroke-width="2" />
+  
+  <!-- Author placeholder - This can be changed -->
+  <text id="author" x="310" y="450" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="28" fill="#7f8c8d">Author Name</text>
+  
+  <!-- Professional logo placeholder -->
+  <circle cx="100" cy="75" r="30" fill="white" />
+  <rect x="495" y="770" width="50" height="2" fill="white" />
+  <rect x="495" y="780" width="50" height="2" fill="white" />
+  <rect x="495" y="790" width="50" height="2" fill="white" />
+</svg> 

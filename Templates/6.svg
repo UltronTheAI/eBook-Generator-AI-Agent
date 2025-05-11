@@ -1,0 +1,29 @@
+<!-- Copyright (c) 2025 Swaraj Puppalwar (UltronTheAI) -->
+<!-- Licensed under the MIT License. See LICENSE file in the project root for full license information. -->
+<!-- Project: https://github.com/UltronTheAI/eBook-Generator-AI-Agent -->
+<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="595" height="842" fill="#f39c12" />
+  
+  <!-- Geometric patterns -->
+  <polygon points="0,0 595,0 0,842" fill="#e67e22" fill-opacity="0.7" />
+  <polygon points="595,0 595,842 0,842" fill="#d35400" fill-opacity="0.5" />
+  
+  <!-- Central content area -->
+  <rect x="100" y="250" width="395" height="342" fill="white" fill-opacity="0.9" />
+  
+  <!-- Title placeholder - This can be changed -->
+  <text id="title" x="297" y="350" text-anchor="middle" font-family="Impact, sans-serif" font-size="42" font-weight="bold" fill="#d35400">Your Title Here</text>
+  
+  <!-- Decorative element -->
+  <rect x="150" y="380" width="295" height="2" fill="#f39c12" />
+  
+  <!-- Author placeholder - This can be changed -->
+  <text id="author" x="297" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#333333">Author Name</text>
+  
+  <!-- Geometric accents -->
+  <rect x="100" y="250" width="20" height="342" fill="#e67e22" />
+  <rect x="475" y="250" width="20" height="342" fill="#e67e22" />
+  <rect x="100" y="250" width="395" height="20" fill="#e67e22" />
+  <rect x="100" y="572" width="395" height="20" fill="#e67e22" />
+</svg> 

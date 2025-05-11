@@ -1,0 +1,29 @@
+<!-- Copyright (c) 2025 Swaraj Puppalwar (UltronTheAI) -->
+<!-- Licensed under the MIT License. See LICENSE file in the project root for full license information. -->
+<!-- Project: https://github.com/UltronTheAI/eBook-Generator-AI-Agent -->
+<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="595" height="842" fill="#27ae60" />
+  
+  <!-- Decorative elements -->
+  <rect x="0" y="0" width="595" height="200" fill="#2ecc71" />
+  <rect x="0" y="642" width="595" height="200" fill="#2ecc71" />
+  
+  <!-- Center panel -->
+  <rect x="75" y="250" width="445" height="342" fill="#ffffff" stroke="#1e8449" stroke-width="3" />
+  
+  <!-- Title placeholder - This can be changed -->
+  <text id="title" x="297" y="350" text-anchor="middle" font-family="Georgia, serif" font-size="40" font-weight="bold" fill="#333333">Your Title Here</text>
+  
+  <!-- Separator -->
+  <line x1="150" y1="400" x2="445" y2="400" stroke="#27ae60" stroke-width="3" />
+  
+  <!-- Author placeholder - This can be changed -->
+  <text id="author" x="297" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#333333">Author Name</text>
+  
+  <!-- Decorative corners -->
+  <path d="M75 250 L125 250 L125 300 L75 250" fill="#2ecc71" />
+  <path d="M520 250 L470 250 L470 300 L520 250" fill="#2ecc71" />
+  <path d="M75 592 L125 592 L125 542 L75 592" fill="#2ecc71" />
+  <path d="M520 592 L470 592 L470 542 L520 592" fill="#2ecc71" />
+</svg> 

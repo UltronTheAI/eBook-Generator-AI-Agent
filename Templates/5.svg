@@ -1,0 +1,33 @@
+<!-- Copyright (c) 2025 Swaraj Puppalwar (UltronTheAI) -->
+<!-- Licensed under the MIT License. See LICENSE file in the project root for full license information. -->
+<!-- Project: https://github.com/UltronTheAI/eBook-Generator-AI-Agent -->
+<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient background -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0" y1="0" x2="0" y2="842" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9b59b6" />
+      <stop offset="1" stop-color="#3498db" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="595" height="842" fill="url(#bg-gradient)" />
+  
+  <!-- Semi-transparent overlay -->
+  <rect x="75" y="200" width="445" height="442" fill="white" fill-opacity="0.15" rx="20" ry="20" />
+  
+  <!-- Title placeholder - This can be changed -->
+  <text id="title" x="297" y="350" text-anchor="middle" font-family="Verdana, sans-serif" font-size="42" font-weight="bold" fill="#ffffff">Your Title Here</text>
+  
+  <!-- Decorative line -->
+  <line x1="150" y1="400" x2="445" y2="400" stroke="#ffffff" stroke-width="3" />
+  
+  <!-- Author placeholder - This can be changed -->
+  <text id="author" x="297" y="450" text-anchor="middle" font-family="Verdana, sans-serif" font-size="28" fill="#ffffff">Author Name</text>
+  
+  <!-- Decorative circles -->
+  <circle cx="100" cy="100" r="30" fill="white" fill-opacity="0.2" />
+  <circle cx="150" cy="150" r="20" fill="white" fill-opacity="0.2" />
+  <circle cx="495" cy="742" r="40" fill="white" fill-opacity="0.2" />
+  <circle cx="445" cy="692" r="25" fill="white" fill-opacity="0.2" />
+</svg> 

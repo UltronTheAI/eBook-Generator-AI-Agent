@@ -1,0 +1,40 @@
+<!-- Copyright (c) 2025 Swaraj Puppalwar (UltronTheAI) -->
+<!-- Licensed under the MIT License. See LICENSE file in the project root for full license information. -->
+<!-- Project: https://github.com/UltronTheAI/eBook-Generator-AI-Agent -->
+<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="595" height="842" fill="#1a1a2e" />
+  
+  <!-- Tech-inspired grid lines -->
+  <pattern id="smallGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#16213e" stroke-width="0.5" />
+  </pattern>
+  <rect width="595" height="842" fill="url(#smallGrid)" />
+  
+  <!-- Digital circuit-like accents -->
+  <path d="M 0,200 H 150 V 300 H 250 V 400 H 350 V 500 H 595" stroke="#0f3460" stroke-width="2" fill="none" />
+  <path d="M 0,642 H 200 V 542 H 300 V 442 H 400 V 342 H 595" stroke="#0f3460" stroke-width="2" fill="none" />
+  
+  <!-- Digital nodes -->
+  <circle cx="150" cy="200" r="5" fill="#e94560" />
+  <circle cx="250" cy="300" r="5" fill="#e94560" />
+  <circle cx="350" cy="400" r="5" fill="#e94560" />
+  <circle cx="200" cy="642" r="5" fill="#e94560" />
+  <circle cx="300" cy="542" r="5" fill="#e94560" />
+  <circle cx="400" cy="442" r="5" fill="#e94560" />
+  
+  <!-- Content area -->
+  <rect x="100" y="250" width="395" height="342" fill="#16213e" stroke="#0f3460" stroke-width="2" />
+  
+  <!-- Title placeholder - This can be changed -->
+  <text id="title" x="297" y="350" text-anchor="middle" font-family="Consolas, monospace" font-size="38" font-weight="bold" fill="#e94560">Your Title Here</text>
+  
+  <!-- Digital separator -->
+  <line x1="150" y1="400" x2="445" y2="400" stroke="#0f3460" stroke-width="2" stroke-dasharray="10 5" />
+  
+  <!-- Author placeholder - This can be changed -->
+  <text id="author" x="297" y="450" text-anchor="middle" font-family="Consolas, monospace" font-size="24" fill="#ffffff">Author Name</text>
+  
+  <!-- Tech accent -->
+  <rect x="100" y="592" width="395" height="10" fill="#e94560" fill-opacity="0.7" />
+</svg> 
